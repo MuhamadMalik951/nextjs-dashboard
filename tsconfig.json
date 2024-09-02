@@ -20,7 +20,7 @@
     ],
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./*"]
+      "@/app/*": ["app/*"]
     }
   },
   "include": [
@@ -33,3 +33,4 @@
   ],
   "exclude": ["node_modules"]
 }
+
